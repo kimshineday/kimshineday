@@ -47,5 +47,6 @@
 <h3>✨ My Development Insights</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=kimshineday&show_icons=true&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimshineday&theme=radical&exclude_repo=backend">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimshineday&theme=radical&exclude_repo=backend,algorism">
 </a>
+
