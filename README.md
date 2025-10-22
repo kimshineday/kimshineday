@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=🍇Shine%20Muscat??????&animation=blinking&fontColor=#858585)
 <div align="center">
+  <img width="200" height="200" alt="octocat-1761124722197" src="https://github.com/user-attachments/assets/9f9f9163-963b-4e53-b045-9a5fbfa9c714" />
+  
   <h2>✨Hi! I'm KIM ShineDay</h2>
   <h3>An aspiring Backend Developer.</h3>
   <p>I'm passionate about conceptualizing and building the fundamental systems that drive digital applications.</p>
@@ -38,3 +40,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kimshineday&show_icons=true&theme=radical">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimshineday&theme=radical&exclude_repo=backend,algorism">
 </a>
+
