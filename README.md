@@ -24,11 +24,15 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width=80>
 </div>
 <h3>☁️ Cloud & Deployment / 클라우드 & 배포</h3>
-<img src="https://skillicons.dev/icons?i=aws&theme=light" />
+<div style="width: 50%; float: left; padding: 10px;">
+  <img src="https://skillicons.dev/icons?i=aws&theme=light" /> 
+  <img src="https://railway.app/brand/logo-dark.svg" width=50>
+</div>
 <h3>🖥️ Editor & IDE / 개발 도구</h3>
 <div style="width: 50%; float: left; padding: 10px;">
-  <img src="https://private-user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjExMjUzNDAsIm5iZiI6MTc2MTEyNTA0MCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzctZGUwMzgxNzItZTkwMy00OTUxLTkyNmMtNzU1ODc4ZGViMGI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDIyVDA5MjQwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlkM2EzNWY2NGUwOGJlMTVlOGE3ZGJiOGFkNGI5ZmM2YTRhMmRhYjFlOTg2ZDgzODUyN2JkN2VmZTFjYTMwNGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.z6tBezk6OnRCrc1npv0jUO38K4PDLxa7V_Gdg_UlCAE" width=80>
+  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width=70>
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width=70>
+  <img src="https://private-user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjExMjUzNDAsIm5iZiI6MTc2MTEyNTA0MCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzctZGUwMzgxNzItZTkwMy00OTUxLTkyNmMtNzU1ODc4ZGViMGI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDIyVDA5MjQwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlkM2EzNWY2NGUwOGJlMTVlOGE3ZGJiOGFkNGI5ZmM2YTRhMmRhYjFlOTg2ZDgzODUyN2JkN2VmZTFjYTMwNGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.z6tBezk6OnRCrc1npv0jUO38K4PDLxa7V_Gdg_UlCAE" width=70>
 </div>
 
 <h3>👣 My Developer Footprint</h3>
@@ -40,4 +44,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kimshineday&show_icons=true&theme=radical">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimshineday&theme=radical&exclude_repo=backend,algorism">
 </a>
+
 
